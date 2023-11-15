@@ -1,3 +1,6 @@
+// i2c
+
+
 const int ldrPin = A0;
 const int ledPin = 13; // LED connected to digital pin 13
 
